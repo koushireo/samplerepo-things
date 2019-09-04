@@ -1,4 +1,3 @@
-blue
-red
-white
-pink
+apples
+berries
+cherries
